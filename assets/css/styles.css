@@ -1,0 +1,21 @@
+
+* {
+    box-sizing: border-box;
+    vertical-align: baseline;
+    list-style: none;
+
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primary-color: #f0f0f0;
+
+    --primary-bg-color: #111217;
+    --secondary-bg-color: #28292e;
+    --border-color: #28292e;
+
+    --title-color: #9a9a9c;
+    --link-color: #9a9a9a;
+    --icon-color: #c7c8c9;
+}
